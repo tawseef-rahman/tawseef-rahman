@@ -6,7 +6,7 @@
 
 - :mortar_board: **Current Focus**: Studying computer science with a passion for building efficient and scalable software solutions.
 - :computer: **Interests**: Software Engineering, Algorithms, Systems Programming, and Open-Source Contributions.
-- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, React, Python, C, C++, Java, R, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind, Vite, Git, Docker, and Postman
+- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, React, Python, C, C++, Java, R, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind, Vite, Git, Docker, and Postman
 - :star2: **Looking For**: Summer 2025 Technology Internship opportunities.
 
 ## :books: **Projects**

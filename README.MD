@@ -5,17 +5,18 @@
 ## :rocket: **About Me**
 
 - :mortar_board: **Current Focus**: Studying computer science with a passion for building efficient and scalable software solutions.
-- :computer: **Interests**: Software Engineering, Algorithms, Systems Programming, and Open-Source Contributions.
-- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, React, Python, C, C++, Java, R, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind, Vite, Git, Docker, and Postman
+- :computer: **Interests**: Software Engineering, Algorithms, and Systems Programming.
+- :books: **Relevant Coursework**: Data Structures and Algorithms, Intro to Computer Architecture, Web Systems, Practical Data Science
+- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, React, Swift, Python, MATLAB, C, C++, Java, R, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind, Vite, Pandas, Numpy, scikit-learn, Git, Docker, Postman
 - :star2: **Looking For**: Summer 2025 Technology Internship opportunities.
 
-## :books: **Projects**
+## :open_file_folder: **Projects**
 
 Here are some of my favorite projects:
 
 - [**ColorFinder**](https://github.com/tawseef-rahman/color-finder): A user can upload a photo, and the application generate a color palette of HEX codes, based off the colors from the image.
-- [**ExpenseTracker**](https://github.com/tawseef-rahman/expense-tracker): A user can track their personal expenses and see useful statistics and visualizations about their expenses.
-- [**ChemQuest**](https://github.com/tawseef-rahman/chem-quest): A user can test their knowledge on a chemistry topic of their choosing: 1. Periodic Table of Elements, 2. Polyatomic Ions, 3. Amino Acids, 4. VSEPR Theory
+- [**RecipeBox**](https://github.com/tawseef-rahman/recipe-box): A user can create their personalized account and add/modify recipes to their account.
+- [**ChemQuest**](https://github.com/tawseef-rahman/chem-quest): A user can test their knowledge on a chemistry topic of their choosing: 1. Periodic Table of Elements, 2. Polyatomic Ions, 3. Amino Acids, 4. VSEPR Theory.
 - [**Personal Website**](https://github.com/tawseef-rahman/tr-website): My personal website.
 
 ## :handshake: Connect With Me

@@ -16,7 +16,7 @@ Here are some of my favorite projects:
 
 - [**ColorFinder**](https://github.com/tawseef-rahman/color-finder): A user can upload a photo, and the application generate a color palette of HEX codes, based off the colors from the image.
 - [**ChemQuest**](https://github.com/tawseef-rahman/chem-quest): A user can test their knowledge on a chemistry topic of their choosing: 1. Periodic Table of Elements, 2. Polyatomic Ions, 3. Amino Acids, 4. VSEPR Theory.
-- [**RecipeBox**](https://github.com/tawseef-rahman/recipe-box): A user can create their personalized account and add/modify recipes to their account.
+- [**RecipeBox**](https://github.com/tawseef-rahman/recipe-box): A user can create a personalized account and add/modify recipes to their account.
 - [**Personal Website**](https://github.com/tawseef-rahman/tr-website): My personal website.
 
 ## :handshake: Connect With Me

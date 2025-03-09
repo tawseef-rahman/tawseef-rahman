@@ -7,8 +7,7 @@
 - :mortar_board: **Current Focus**: Studying computer science with a passion for building efficient and scalable software solutions.
 - :computer: **Interests**: Software Engineering, Algorithms, and Systems Programming.
 - :books: **Relevant Coursework**: Data Structures and Algorithms, Introduction to Computer Architecture, Web Systems, Practical Data Science, Computational Linear Algebra
-- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python, R, MATLAB, React, React Native, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind CSS, Vite, Flask, AWS CloudFront, Pandas, Numpy, scikit-learn, Git, Docker, Postman.
-- :star2: **Looking For**: Summer 2025 Technology Internship opportunities.
+- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python, R, MATLAB, React, React Native, Node.js, Next.js, MongoDB, SQL, Express.js, Tailwind CSS, Vite, Flask, AWS CloudFront, Pandas, Numpy, scikit-learn, PyTorch, TensorFlow, Git, Docker, Postman.
 
 ## :open_file_folder: **Projects**
 

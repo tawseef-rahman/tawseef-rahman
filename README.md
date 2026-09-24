@@ -1,14 +1,15 @@
 # :wave: Hi! I'm Tawseef Rahman.
 
-**Senior** | **Computer Science** | **University of Michigan - Ann Arbor**
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tawseef-rahman_logo_initials_white-on-black.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/tawseef-rahman_logo_initials_black-on-white.png">
+    <img alt="Tawseef Rahman Initials Logo" src="assets/tawseef-rahman_logo_initials_black-on-white.png">
+</picture>
+
+**Alum** | **Computer Science** | **University of Michigan - Ann Arbor**
 
 ## :rocket: **About Me**
 
-- :mortar_board: **Current Focus**: Studying computer science with a passion for building efficient and scalable software solutions.
-- :computer: **Interests**: Software Engineering, Algorithms, and Systems Programming.
-- :books: **Relevant Coursework**: Data Structures and Algorithms, Introduction to Computer Architecture, Web Systems, Practical Data Science, Computer Science Theory, Software Engineering, Computational Linear Algebra
-- :hammer_and_wrench: **Skills**: HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python, R, MATLAB, React, React Native, Node.js, Next.js, MongoDB, DynamoDB, SQL, MySQL, PostgreSQL, Express.js, Tailwind CSS, Vite, Flask, AWS CloudFront, AWS EC2, Pandas, Numpy, scikit-learn, Seaborn, PyTorch, TensorFlow, Git, Azure DevOps, Docker, Firebase, Postman, ReactAPI, FastAPI
+## :information_source: Connect With Me
 
-## :handshake: Connect With Me
-
-Find my email address, a link to my website, and a link to my LinkedIn profile on the left side of my GitHub profile.
+Find my email address, a link to my website, and a link to my LinkedIn profile on my GitHub profile.

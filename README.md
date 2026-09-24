@@ -1,12 +1,25 @@
 # 👋🏾 Hi! I'm Tawseef Rahman.
 
-**Alum** | **Computer Science** | **University of Michigan - Ann Arbor**
+🎓 Alum | 💻 Computer Science | 〽️ University of Michigan - Ann Arbor (Go Blue!)
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-- 🎓 Focus: Studied computer science with a passion for building efficient, scalable software, from distributed systems and search engines to AI-powered applications.
-- 💻 Interests: Software Engineering, Full-Stack Development, Applied AI/ML, Distributed Systems, Information Retrieval, and UI/UX Design.
+### 🔭 Focus
+
+⚙️ Passionate about building scalable, efficient software.
+
+### 💡 Interests
+
+🧩 Full-Stack Development
+🤖 Applied AI/ML
+🌐 Distributed Systems
+🔍 Information Retrieval
+📊 Data and Analytics
 
 ## ℹ️ Connect With Me
 
-Find my email address, a link to my website, and a link to my LinkedIn profile on my GitHub profile.
+📧 Email
+🔗 Website
+💼 LinkedIn
+
+**All linked on my GitHub profile.**

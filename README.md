@@ -11,15 +11,21 @@
 ### 💡 Interests
 
 🧩 Full-Stack Development
+
 🤖 Applied AI/ML
+
 🌐 Distributed Systems
+
 🔍 Information Retrieval
+
 📊 Data and Analytics
 
 ## ℹ️ Connect With Me
 
 📧 Email
+
 🔗 Website
+
 💼 LinkedIn
 
 **All linked on my GitHub profile.**

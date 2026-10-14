@@ -1,5 +1,7 @@
 # 👋🏾 Hi! I'm Tawseef Rahman.
 
+⚙️ Incoming Vehicle Dynamics Simulation Integration Engineer | 🚗 General Motors
+
 🎓 Alum | 💻 Computer Science | 〽️ University of Michigan - Ann Arbor (Go Blue!)
 
 ## 🚀 About Me
